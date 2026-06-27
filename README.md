@@ -2,19 +2,19 @@
 <div align="center">
 <h2>Hi, I'm Arik 👋</h2>
 <p>
-  <a href="https://linkedin.com/in/your-handle" target="_blank">
+  <a href="[https://linkedin.com/in/your-handle](https://www.linkedin.com/in/arikdutta/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:duttaarik@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://your-site.com" target="_blank">
+  <a href="https://www.rustfinance.com" target="_blank">
     <img src="https://img.shields.io/badge/your--site.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 <p>
 <!-- Replace with your own bio -->
-Your one-paragraph intro goes here — what you build, your experience, notable work or projects, and anything you maintain. Keep it to a few sentences.
+Rust fullstack engineer with two years of production experience. Migrated a 1.5M+ line Java codebase to Rust on-site in Dubai, covering backend services, architecture redesign, and frontend components. Previously rebuilt a large-scale sustainability platform in TypeScript. Maintainer of rust-ui.com, a component registry with thousands of production users, and an icons crate with 25k+ downloads.
 </p>
 </div>
 <hr/>
@@ -22,16 +22,16 @@ Your one-paragraph intro goes here — what you build, your experience, notable 
 <br />
 <p align="center">
   <!-- Replace owner/repo with your own pinned repos -->
-  <a href="https://github.com/arikdutta/your-repo-1">
+  <a href="[https://github.com/arikdutta/your-repo-1](https://github.com/arikdutta/retail-banking-app)">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=arikdutta&repo=your-repo-1&theme=gruvbox" />
   </a>
-  <a href="https://github.com/arikdutta/your-repo-2">
+  <a href="[https://github.com/arikdutta/your-repo-2](https://github.com/arikdutta/loan-application-form)">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=arikdutta&repo=your-repo-2&theme=gruvbox" />
   </a>
 </p>
 <hr/>
 <h2 align="center">About me 🚀</h2>
-<p align="center"><b>Timezone: your/timezone</b></p>
+<p align="center"><b>Timezone: Europe/Paris (CET)</b></p>
 <!-- Edit each line below to match your work -->
 🔸 Currently working on: _your current project_<br/>
 🔸 Specialty: _your main area of expertise_<br/>
