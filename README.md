@@ -45,7 +45,7 @@ Rust fullstack engineer with two years of production experience. Migrated a 1.5M
 <br/>
 <div align="center">
     <!-- Edit the i= list: see https://github.com/tandpfun/skill-icons for codes -->
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,actix,wasm,leptos,sqlite,python" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,actix,wasm,sqlite,python" />
   <br>
     <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,git,postgres,figma" /><br>
 </div>
