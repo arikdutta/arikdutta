@@ -47,7 +47,7 @@ In my latest project, I built www.rustfinance.com, a full-stack retail banking a
 🔸 Specialty: Rust backend & fullstack — REST APIs, async Rust, WASM, Service-oriented architecture, BPM, Process automation, Python
 🔸 Finance: built a KYC mobile application for a dutch bank
 🔸 Looking to collaborate on: production Rust projects, backend systems, low code tool, python and AI models
-🔸 Ask me about: Rust fullstack & backend architecture, BPM Process automation
+🔸 Ask me about: Rust fullstack & backend architecture, BPM Process automation, Python
 🔸 Interested in Web3, Blockchain & solana.
 <br/>
 <hr/>
