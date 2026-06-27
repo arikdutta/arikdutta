@@ -30,10 +30,10 @@ stakeholders.
 <br />
 <p align="center">
   <!-- Replace owner/repo with your own pinned repos -->
-  <a href="https://github.com/arikdutta/retail-banking-app.git">
+  <a href="https://github.com/arikdutta/retail-banking-app">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=arikdutta&repo=retail-banking-app&theme=gruvbox" />
   </a>
-  <a href="https://github.com/arikdutta/loan-application-form.git">
+  <a href="https://github.com/arikdutta/loan-application-form">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=arikdutta&repo=loan-application-form&theme=gruvbox" />
   </a>
 </p>
@@ -41,12 +41,14 @@ stakeholders.
 <h2 align="center">About me 🚀</h2>
 <p align="center"><b>Timezone: Europe/Paris (CET)</b></p>
 <!-- Edit each line below to match your work -->
-🔸 Currently working on: www.rustfinance.com<br/>
-🔸 Specialty: _your main area of expertise_<br/>
-🔸 Currently learning: _something new_<br/>
-🔸 Looking to collaborate on: _the kinds of projects you want_<br/>
-🔸 Ask me about: _your areas of interest_<br/>
-🔸 Fun fact / achievement: _something about you_
+In my latest project, I built www.rustfinance.com, a full-stack retail banking app built with async Rust (Axum + Tokio) + TypeScript (TanStack Start). Already deployed in production.
+
+🔸 Currently maintaining: www.rustfinance.com
+🔸 Specialty: Rust backend & fullstack — REST APIs, async Rust, WASM, Service-oriented architecture, BPM, Process automation, Python
+🔸 Finance: built a KYC mobile application for a dutch bank
+🔸 Looking to collaborate on: production Rust projects, backend systems, low code tool, python and AI models
+🔸 Ask me about: Rust fullstack & backend architecture, BPM Process automation
+🔸 Interested in Web3, Blockchain & solana.
 <br/>
 <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
