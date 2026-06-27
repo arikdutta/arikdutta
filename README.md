@@ -23,10 +23,10 @@ Rust fullstack engineer with two years of production experience. Migrated a 1.5M
 <p align="center">
   <!-- Replace owner/repo with your own pinned repos -->
   <a href="https://github.com/arikdutta/retail-banking-app.git">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=arikdutta&repo=your-repo-1&theme=gruvbox" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=arikdutta&repo=retail-banking-app&theme=gruvbox" />
   </a>
   <a href="https://github.com/arikdutta/loan-application-form.git">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=arikdutta&repo=your-repo-2&theme=gruvbox" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=arikdutta&repo=loan-application-form&theme=gruvbox" />
   </a>
 </p>
 <hr/>
@@ -45,7 +45,7 @@ Rust fullstack engineer with two years of production experience. Migrated a 1.5M
 <br/>
 <div align="center">
     <!-- Edit the i= list: see https://github.com/tandpfun/skill-icons for codes -->
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,python,react" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,actix,wasm,tauri,sqlite,python" />
   <br>
     <img src="https://go-skill-icons.vercel.app/api/icons?i=appian,docker,git,postgres,figma" /><br>
 </div>
