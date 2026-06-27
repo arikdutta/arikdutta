@@ -22,10 +22,10 @@ Rust fullstack engineer with two years of production experience. Migrated a 1.5M
 <br />
 <p align="center">
   <!-- Replace owner/repo with your own pinned repos -->
-  <a href="https://github.com/arikdutta/retail-banking-app">
+  <a href="https://github.com/arikdutta/retail-banking-app.git">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=arikdutta&repo=your-repo-1&theme=gruvbox" />
   </a>
-  <a href="https://github.com/arikdutta/loan-application-form">
+  <a href="https://github.com/arikdutta/loan-application-form.git">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=arikdutta&repo=your-repo-2&theme=gruvbox" />
   </a>
 </p>
