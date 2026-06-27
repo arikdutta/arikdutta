@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.rustfinance.com" target="_blank">
-    <img src="https://img.shields.io/badge/your--site.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/www.rustfinance.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 <p>
