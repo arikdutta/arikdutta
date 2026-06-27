@@ -2,7 +2,7 @@
 <div align="center">
 <h2>Hi, I'm Arik 👋</h2>
 <p>
-  <a href="[https://linkedin.com/in/your-handle](https://www.linkedin.com/in/arikdutta/)" target="_blank">
+  <a href="https://www.linkedin.com/in/arikdutta" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:duttaarik@gmail.com">
@@ -22,10 +22,10 @@ Rust fullstack engineer with two years of production experience. Migrated a 1.5M
 <br />
 <p align="center">
   <!-- Replace owner/repo with your own pinned repos -->
-  <a href="[https://github.com/arikdutta/your-repo-1](https://github.com/arikdutta/retail-banking-app)">
+  <a href="https://github.com/arikdutta/retail-banking-app">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=arikdutta&repo=your-repo-1&theme=gruvbox" />
   </a>
-  <a href="[https://github.com/arikdutta/your-repo-2](https://github.com/arikdutta/loan-application-form)">
+  <a href="https://github.com/arikdutta/loan-application-form">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=arikdutta&repo=your-repo-2&theme=gruvbox" />
   </a>
 </p>
@@ -45,9 +45,9 @@ Rust fullstack engineer with two years of production experience. Migrated a 1.5M
 <br/>
 <div align="center">
     <!-- Edit the i= list: see https://github.com/tandpfun/skill-icons for codes -->
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,python,react,nodejs" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,python,react" />
   <br>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,docker,git,postgres,figma" /><br>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=appian,docker,git,postgres,figma" /><br>
 </div>
 <br/>
 <hr/>
