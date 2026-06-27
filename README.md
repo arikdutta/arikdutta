@@ -42,13 +42,12 @@ stakeholders.
 <p align="center"><b>Timezone: Europe/Paris (CET)</b></p>
 <!-- Edit each line below to match your work -->
 In my latest project, I built www.rustfinance.com, a full-stack retail banking app built with async Rust (Axum + Tokio) + TypeScript (TanStack Start). Already deployed in production.
-
-🔸 Currently maintaining: www.rustfinance.com
-🔸 Specialty: Rust backend & fullstack — REST APIs, async Rust, WASM, Service-oriented architecture, BPM, Process automation, Python
-🔸 Finance: built a KYC mobile application for a dutch bank
-🔸 Looking to collaborate on: production Rust projects, backend systems, low code tool, python and AI models
-🔸 Ask me about: Rust fullstack & backend architecture, BPM Process automation, Python
-🔸 Interested in Web3, Blockchain & solana.
+🔸 Currently maintaining: <a href="https://www.rustfinance.com">www.rustfinance.com</a><br/>
+🔸 Specialty: Rust backend & fullstack — REST APIs, async Rust, WASM, service-oriented architecture, BPM, process automation, Python<br/>
+🔸 Finance: built a KYC mobile application for a Dutch bank<br/>
+🔸 Looking to collaborate on: production Rust projects, backend systems, low-code tooling, Python and AI models<br/>
+🔸 Ask me about: Rust fullstack & backend architecture, BPM process automation, Python<br/>
+🔸 Interested in Web3, Blockchain & Solana
 <br/>
 <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
