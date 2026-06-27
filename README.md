@@ -14,7 +14,15 @@
 </p>
 <p>
 <!-- Replace with your own bio -->
-Rust fullstack engineer with two years of production experience. Migrated a 1.5M+ line Java codebase to Rust on-site in Dubai, covering backend services, architecture redesign, and frontend components. Previously rebuilt a large-scale sustainability platform in TypeScript. Maintainer of rust-ui.com, a component registry with thousands of production users, and an icons crate with 25k+ downloads.
+Technical lead with 12 years of experience in driving large-scale platform migrations in regulated 
+environments (banking, healthcare, government) and managing engineering teams. Early-career .NET and 
+C# background provides direct grounding in the object-oriented architectural patterns that underpin legacy 
+C# codebases targeted for migration. Actively developing production-ready Rust skills built multiple projects 
+in Axum, Tokio, SQLx, Leptos, and PostgreSQL, with hands-on command of ownership, lifetimes, 
+async/await, and Cargo tooling; implementing GitOps deployment patterns to ship Rust services with zero-downtime guarantees at scale. Holds an Executive MBA 
+from IESE Business School (Barcelona, FT top 10), enabling clear articulation of technical roadmaps to senior 
+stakeholders.
+
 </p>
 </div>
 <hr/>
@@ -33,7 +41,7 @@ Rust fullstack engineer with two years of production experience. Migrated a 1.5M
 <h2 align="center">About me 🚀</h2>
 <p align="center"><b>Timezone: Europe/Paris (CET)</b></p>
 <!-- Edit each line below to match your work -->
-🔸 Currently working on: _your current project_<br/>
+🔸 Currently working on: www.rustfinance.com<br/>
 🔸 Specialty: _your main area of expertise_<br/>
 🔸 Currently learning: _something new_<br/>
 🔸 Looking to collaborate on: _the kinds of projects you want_<br/>
@@ -45,9 +53,9 @@ Rust fullstack engineer with two years of production experience. Migrated a 1.5M
 <br/>
 <div align="center">
     <!-- Edit the i= list: see https://github.com/tandpfun/skill-icons for codes -->
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,actix,wasm,sqlite,python" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,actix,wasm,sqlite,python,sklearn,tauri,fastapi,flask,mysql" />
   <br>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,git,postgres,figma" /><br>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,git,github,postgres,figma,vscode,aws,cloudflare,ai,postman" /><br>
 </div>
 <br/>
 <hr/>
