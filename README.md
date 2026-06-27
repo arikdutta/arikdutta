@@ -1,5 +1,4 @@
-![MasterHead](<img width="1252" height="310" alt="LinkedInBanner" src="https://github.com/user-attachments/assets/2c280920-162f-4d35-a7fa-40fc915dd356" />
-)
+![MasterHead](LinkedInBanner.png)
 <div align="center">
 <h2>Hi, I'm Arik 👋</h2>
 <p>
