@@ -42,6 +42,7 @@ stakeholders.
 <p align="center"><b>Timezone: Europe/Paris (CET)</b></p>
 <!-- Edit each line below to match your work -->
 In my latest project, I built www.rustfinance.com, a full-stack retail banking app built with async Rust (Axum + Tokio) + TypeScript (TanStack Start). Already deployed in production.
+<br/>
 🔸 Currently maintaining: <a href="https://www.rustfinance.com">www.rustfinance.com</a><br/>
 🔸 Specialty: Rust backend & fullstack — REST APIs, async Rust, WASM, service-oriented architecture, BPM, process automation, Python<br/>
 🔸 Finance: built a KYC mobile application for a Dutch bank<br/>
