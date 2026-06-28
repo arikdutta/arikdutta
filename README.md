@@ -26,8 +26,8 @@ Technical lead with 12 years of experience in driving large-scale platform migra
   <a href="https://github.com/arikdutta/retail-banking-app">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=arikdutta&repo=retail-banking-app&theme=gruvbox" />
   </a>
-  <a href="https://github.com/arikdutta/loan-application-form">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=arikdutta&repo=loan-application-form&theme=gruvbox" />
+  <a href="https://github.com/arikdutta/CSharp-toRUST-Assistant">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=arikdutta&repo=CSharp-toRUST-Assistant&theme=gruvbox" />
   </a>
 </p>
 <hr/>
