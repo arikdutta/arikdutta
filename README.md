@@ -1,4 +1,4 @@
-![MasterHead](LinkedInBanner new.png)
+![MasterHead](LinkedInBannernew.png)
 <div align="center">
 <h2>Hi, I'm Arik 👋</h2>
 <p>
