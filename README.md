@@ -54,11 +54,11 @@ In my latest project, I built www.rustfinance.com, a full-stack retail banking a
 </div>
 <br/>
 <hr/>
-<h2 align="center">🎉 Certifications 🎉</h2>
+<h2 align="center">🏆 Certifications 🏆</h2>
 <br/>
 <div align="center">
     <!-- Edit the i= list: see https://github.com/tandpfun/skill-icons for codes -->
-   [![Certifications](https://github.com/arikdutta/arikdutta/raw/main/Certifications.png)](https://github.com/arikdutta/arikdutta/blob/main/Certifications.png)
+[![Certifications](https://github.com/arikdutta/arikdutta/raw/main/Certifications.png)](https://github.com/arikdutta/arikdutta/blob/main/Certifications.png)
 </div>
 <br/>
 <hr/>
