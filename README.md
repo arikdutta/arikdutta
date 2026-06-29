@@ -54,7 +54,7 @@ In my latest project, I built www.rustfinance.com, a full-stack retail banking a
 </div>
 <br/>
 <hr/>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">🎉 Languages-Frameworks-Tools 🎉</h2>
 <br/>
 <div align="center">
     <!-- Edit the i= list: see https://github.com/tandpfun/skill-icons for codes -->
