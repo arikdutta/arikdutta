@@ -54,6 +54,16 @@ In my latest project, I built www.rustfinance.com, a full-stack retail banking a
 </div>
 <br/>
 <hr/>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <!-- Edit the i= list: see https://github.com/tandpfun/skill-icons for codes -->
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,actix,wasm,sqlite,python,sklearn,tauri,fastapi,flask,mysql" />
+  <br>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,git,github,postgres,figma,vscode,aws,cloudflare,ai,postman" /><br>
+</div>
+<br/>
+<hr/>
 <div align="center">
  <picture>
   <source
