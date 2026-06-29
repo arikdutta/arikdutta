@@ -57,8 +57,8 @@ In my latest project, I built www.rustfinance.com, a full-stack retail banking a
 <h2 align="center">🏆 Certifications 🏆</h2>
 <br/>
 <p align="center">
-  <a href="https://github.com/arikdutta/arikdutta/blob/main/Certifications.png">
-    <img src="https://github.com/arikdutta/arikdutta/raw/main/Certifications.png" alt="Certifications">
+  <a href="https://github.com/arikdutta/arikdutta/blob/main/Certitifcations.png">
+    <img src="https://github.com/arikdutta/arikdutta/raw/main/Certitifcations.png" alt="Certifications">
   </a>
 </p>
 <br/>
