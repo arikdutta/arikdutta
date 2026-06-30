@@ -29,6 +29,9 @@ Technical lead with 12 years of experience in driving large-scale platform migra
   <a href="https://github.com/arikdutta/CSharp-toRUST-Assistant">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=arikdutta&repo=CSharp-toRUST-Assistant&theme=gruvbox" />
   </a>
+    <a href="https://github.com/arikdutta/meteo-agent">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=arikdutta&repo=meteo-agent&theme=gruvbox" />
+  </a>
 </p>
 <hr/>
 <h2 align="center">About me 🚀</h2>
